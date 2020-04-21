@@ -31,12 +31,13 @@ This Code repository contains the Programable Pythonic implementations of Variat
 
 ## Requiremnts
 For this project to run you need:
-* Python 3.7.3
+* Python 3.7.0
+* pyDoE 0.3.8
 * Pytorch 1.3.0+cpu
-* Numpy 1.16.2
-* Matplotlib
-* Pandas 0.24.2
-* Scikit-learn 0.20.3 
+* Numpy 1.15.0
+* Matplotlib 2.2.3
+* Pandas 0.25.3
+* Scikit-learn 0.22.2.post1 
 
 ## Note
 
