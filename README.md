@@ -7,7 +7,7 @@ This Code repository contains the Programable Pythonic implementations of Variat
 
 ### Detail
 
-#### 0 - Data Generation
+#### 0 Data Generation
 - Use Code in this [repository](https://github.com/SibghatUllah13/Deep-Latent_Variable_Models-for-dimensionality-reduction-in-surrogate-assisted-optimization/tree/master/Data%20Generation) to generate the data set for the surrogate-modeling. 
 
 #### 1 VAEs Implementation
